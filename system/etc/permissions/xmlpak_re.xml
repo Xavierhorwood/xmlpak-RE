@@ -1167,6 +1167,7 @@
     <feature name="com.nothing.feature.OS.V2_0" />
     <feature name="com.nothing.feature.OS.V2_5" />
     <feature name="com.nothing.feature.OS.V2_5_Beta" />
+    <feature name="com.nothing.feature.OS.V2_5_Beta2" />
     <feature name="com.nothing.feature.ntwidget.V1_2" />
     <feature name="com.nothing.feature.device.pong" />
     <!-- Nvidia -->
