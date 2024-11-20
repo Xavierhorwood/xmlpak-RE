@@ -358,6 +358,10 @@
     <feature name="com.google.hardware.camera.easel_2018" />
     <feature name="com.google.lens.feature.CAMERA_INTEGRATION" />
     <feature name="com.google.lens.feature.IMAGE_INTEGRATION" />
+    <feature name="com.google.android.feature.PIXEL_2019_MIDYEAR_EXPERIENCE" />
+    <feature name="com.google.android.apps.photos.PIXEL_2019_MIDYEAR_PRELOAD" />
+    <feature name="com.google.android.feature.PIXEL_2018_EXPERIENCE" />
+    <feature name="com.google.android.apps.photos.PIXEL_2018_PRELOAD" />
     
     <!-- Nokia -->
     <feature name="com.hmdglobal.android.feature.NOKIA_CAMERA_EXPERIENCE" />
