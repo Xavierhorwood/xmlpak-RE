@@ -1,6 +1,6 @@
 {
-    "version": "10.0",
-    "versionCode": 100,
-    "zipUrl": "https://github.com/Xavierhorwood/xmlpak-RE/releases/download/v10.0/xmlpak-re_module_v10.0.zip",
+    "version": "10.1",
+    "versionCode": 101,
+    "zipUrl": "https://github.com/Xavierhorwood/xmlpak-RE/releases/download/v10.1/xmlpak-re_module_v10.0.zip",
     "changelog": "https://raw.githubusercontent.com/Xavierhorwood/xmlpak-RE/RE/changelog.md"
 }
