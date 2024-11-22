@@ -1,3 +1,12 @@
+**10.2**
+- add updated google features
+
+**10.1**
+- add updated google features
+
+**10.0**
+- add updated nothing feature
+
 **9.0**
 - Fix Samsung apps crash
 - Fix conflicts with other google spoof modules

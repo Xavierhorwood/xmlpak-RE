@@ -358,11 +358,20 @@
     <feature name="com.google.hardware.camera.easel_2018" />
     <feature name="com.google.lens.feature.CAMERA_INTEGRATION" />
     <feature name="com.google.lens.feature.IMAGE_INTEGRATION" />
-    <feature name="com.google.android.feature.PIXEL_2019_MIDYEAR_EXPERIENCE" />
-    <feature name="com.google.android.apps.photos.PIXEL_2019_MIDYEAR_PRELOAD" />
     <feature name="com.google.android.feature.PIXEL_2018_EXPERIENCE" />
     <feature name="com.google.android.apps.photos.PIXEL_2018_PRELOAD" />
-    
+    <feature name="com.google.android.apps.photos.PIXEL_2019_MIDYEAR_PRELOAD" />
+    <feature name="com.google.android.feature.PIXEL_2019_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2019_MIDYEAR_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2020_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2020_MIDYEAR_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2021_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2021_MIDYEAR_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2022_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2022_MIDYEAR_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2023_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2023_MIDYEAR_EXPERIENCE" />
+    <feature name="com.google.android.feature.FIR.PROXIMITY" />    
     <!-- Nokia -->
     <feature name="com.hmdglobal.android.feature.NOKIA_CAMERA_EXPERIENCE" />
     <feature name="com.hmdglobal.android.feature.NOKIA_CAMERA_V3" />
