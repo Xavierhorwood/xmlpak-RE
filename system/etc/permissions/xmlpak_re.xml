@@ -13,6 +13,96 @@
     <feature name="amazon.speech.wakeword" />
     <feature name="com.amazon.alexa.multimodal.lenovo.target" />
     <feature name="com.amazon.feature.PRELOAD" />
+    <feature name="com.fireos.sdk.crashreportermanager" />
+    <feature name="com.fireos.sdk.mapclientlib" />
+    <feature name="com.fireos.sdk.metrics" />
+    <feature name="com.fireos.sdk.amazon_device_policy_manager" />
+    <feature name="com.fireos.sdk.amazon_user_manager" />
+    <feature name="com.fireos.sdk.downloadmanager" />
+    <feature name="com.fireos.sdk.fireos_core" />
+    <feature name="com.fireos.sdk.minerva" />
+    <feature name="com.fireos.sdk.retaildemo" />
+    <feature name="com.fireos.sdk.sics" />
+    <feature name="com.fireos.sdk.amazon_i18n_manager" />
+    <feature name="com.fireos.sdk.i18nutilities" />
+    <feature name="com.fireos.sdk.usearchmanager" />
+    <feature name="com.fireos.sdk.whispersync" />
+    <feature name="com.amazon.client.metrics.api" />
+    <feature name="com.fireos.sdk.amazon_ambient_service" />
+    <feature name="com.fireos.sdk.amazon_hdmi_service" />
+    <feature name="com.fireos.sdk.amazon_package_manager" />    
+    <feature name="com.fireos.sdk.amazon_profile_service" />    
+    <feature name="com.fireos.sdk.are_you_still_watching" />    
+    <feature name="com.fireos.sdk.ceviche" />    
+    <feature name="com.fireos.sdk.connectivity_manager" />    
+    <feature name="com.fireos.sdk.device_model_info" />    
+    <feature name="com.fireos.sdk.firetv_led_manager" />    
+    <feature name="com.fireos.sdk.firetv_sysappslib" />    
+    <feature name="com.fireos.sdk.ftv_device_capability_library" />    
+    <feature name="com.fireos.sdk.ftve_settings_framework" />    
+    <feature name="com.fireos.sdk.ftvkarmalibrary" />
+    <feature name="com.fireos.sdk.hardware_auth" />
+    <feature name="com.fireos.sdk.jackson" />
+    <feature name="com.fireos.sdk.naatyamlib" />
+    <feature name="com.fireos.sdk.ota_contracts" />
+    <feature name="com.fireos.sdk.prism" />
+    <feature name="com.fireos.sdk.shared_asset_storage" />
+    <feature name="com.fireos.sdk.fireos_search_indexable_provider" />
+    <feature name="com.fireos.sdk.amazon_wifi_manager" />
+    <feature name="com.fireos.sdk.backup_and_restore" />
+    <feature name="com.fireos.sdk.h2contracts" />
+    <feature name="com.fireos.sdk.h2shared" />
+    <feature name="com.fireos.sdk.messaging" />
+    <feature name="com.fireos.sdk.langpackage_client" />
+    <feature name="com.fireos.sdk.amazon_audio_manager" />
+    <feature name="com.fireos.sdk.aspclient" />
+    <feature name="com.fireos.sdk.tvtweak" />
+    <feature name="com.fireos.sdk.amazon_accessory_config" />
+    <feature name="android.software.live_tv" />
+    <feature name="android.software.leanback" />
+    <feature name="com.fireos.sdk.adm" />
+    <feature name="com.fireos.sdk.cms" />
+    <feature name="com.fireos.sdk.csf" />
+    <feature name="com.fireos.sdk.direct_texture" />
+    <feature name="com.fireos.sdk.amazon_input_manager" />
+    <feature name="com.fireos.sdk.amazon_power_manager" />
+    <feature name="com.fireos.sdk.tifextension" />
+    <feature name="com.fireos.sdk.amazon_keyguard_manager" />
+    <feature name="com.fireos.sdk.alexa_settings" />
+    <feature name="com.fireos.sdk.speech_mark" />
+    <feature name="com.fireos.sdk.tcomm" />
+    <library name="com.amazon.dcp.contracts.framework" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.identity.auth.device" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.client.metrics.api" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.webview" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.communication" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.dp.logger" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.whisperplay" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.whisperplay.contracts" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.asp" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.kindle.cms.api" file="/system/framework/xmlpak_re.jar" />
+    <library name="kcpsdk-auth" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.dcp.contracts" file="/system/framework/xmlpak_re.jar" />
+    <library name="langpackage-client" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.device.backup.sdk.internal" file="/system/framework/xmlpak_re.jar" />
+    <library name="langpackage-client" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.fireos.sdk.amazon_profile_service" file="/system/framework/xmlpak_re.jar" />
+    <library name="amazon.media.tv.dvr" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.device.messaging.sdk.internal" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.device.settings.sdk.internal" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.device.sync.sdk.internal" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.media.tv" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.tv.tvtweak" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.device.attestation" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.device.messaging" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.fireos.sdk.i18n" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.fireos.sdk.messaging" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.sync.api" file="/system/framework/xmlpak_re.jar" />
+    <library name="retaildemoapi" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.fireos.sdk.adm" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.fireos.sdk.amazon_user_manager" file="/system/framework/xmlpak_re.jar" />
+    <library name="amazon.speech.simclient" file="/system/framework/xmlpak_re.jar" />
+    <library name="com.amazon.dp.logger_lib" file="/system/framework/xmlpak_re.jar" />
     <!-- Asus -->
     <feature name="asus.software.A2V" />
     <feature name="asus.software.LockScreen.cmweather" />
@@ -371,7 +461,7 @@
     <feature name="com.google.android.feature.PIXEL_2022_MIDYEAR_EXPERIENCE" />
     <feature name="com.google.android.feature.PIXEL_2023_EXPERIENCE" />
     <feature name="com.google.android.feature.PIXEL_2023_MIDYEAR_EXPERIENCE" />
-    <feature name="com.google.android.feature.FIR.PROXIMITY" />    
+    <feature name="com.google.android.feature.FIR.PROXIMITY" />
     <!-- Nokia -->
     <feature name="com.hmdglobal.android.feature.NOKIA_CAMERA_EXPERIENCE" />
     <feature name="com.hmdglobal.android.feature.NOKIA_CAMERA_V3" />
@@ -418,6 +508,62 @@
     <feature name="com.hmdglobal.feature.camera.QRCODE_SUPPORTED" />
     <feature name="com.hmdglobal.feature.camera.USE_QUICK_THUMBNAIL" />
     <feature name="com.hmdglobal.feature.camera.VIDEO_STABILIZATION_FEATURE" />
+    <feature name="com.hmdglobal.android.feature.HMD_CAMERA_V4" />
+    <feature name="com.hmdglobal.android.feature.HMD_EXPERIENCE" />
+    <feature name="com.hmdglobal.camera.ENABLE_PICTURE_FACE_DATA_RECT_DEBUG" />
+    <feature name="com.hmdglobal.camera.ENABLE_TRACK_FOCUS_DEBUG" />
+    <feature name="com.hmdglobal.feature.camera.AGGRESSIVE_BACKLIGHT_CONTROL_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.AI_SUPER_PORTRAIT_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.AUTO_NIGHT_IN_HAL_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.BEAUTY_PREVIEW_IN_HAL_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.BURST_STREAM_COMBINATION" />
+    <feature name="com.hmdglobal.feature.camera.CAPTURE_AUTO_EV_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.CINEMA_ULTRA_WIDE_LENS_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.CUSTOM_BOKEH_EFFECT_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.DISABLE_GYRO" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_AUTO_NIGHT_IN_APP_MAIA" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_AUTO_NIGHT_LITE" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_EYES_TRACKING_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_FLASH_SHOT_TRACKING_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_GALLERY_TRANSITION" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_LOW_END_DEVICE_WA" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_MEMORY_CHECK" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_MODE_EDIT" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_MORE_SETTING" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_NEW_WATERMARK_STYLES" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_SPIRIT_LEVEL" />
+    <feature name="com.hmdglobal.feature.camera.ENABLE_WATERMARK_VIDEO_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.FLASH_SHOT_MODE_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.FOCUS_PEAKING_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.HAND_GESTURE_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.HYPERLAPSE_DIV_FRONT_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.HYPERLAPSE_MODE_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.IQ_TUNING_BY_LUX_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.MANUAL_IMAGE_ADJUSTMENT_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.MOTION_PICTURE_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.NIGHT_DARK_VISION_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.NIGHT_IN_HAL_YUV_OUTPUT_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.NIGHT_STAR_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.NIGHT_TRIPOD_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.NIGHT_VIDEO_IN_HAL_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.OZO_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.PANO_LOW_MODE_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.PROCESS_HDR_NIGHT_IN_APP_AURA" />
+    <feature name="com.hmdglobal.feature.camera.PROCESS_LOGICALCAM_BOKEH_IN_HAL" />
+    <feature name="com.hmdglobal.feature.camera.PROCESS_PHOTO_FULL_SIZE_IN_APP_MAIA" />
+    <feature name="com.hmdglobal.feature.camera.PROCESS_SR_IN_APP_MORPHO_SOLUTION_JSON_CONFIG_KEY" />
+    <feature name="com.hmdglobal.feature.camera.PROCESS_UW_PHOTO_FUSION_IN_APP_MEROPE" />
+    <feature name="com.hmdglobal.feature.camera.PROCESS_UW_PHOTO_SUPER_RES_IN_APP_MAIA" />
+    <feature name="com.hmdglobal.feature.camera.PRO_ULTRA_WIDE_LENS_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.RAW_HDR_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.SAT_IN_SENSOR_ZOOM_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.SAT_MODE_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.SUPER_NIGHT_UW_LENS_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.USE_FOCUS_DISTANCE_FEATURE" />
+    <feature name="com.hmdglobal.feature.camera.VIDEO_RECORD_MIRROR_SUPPORTED" />
+    <feature name="com.hmdglobal.feature.camera.WHATS_NEW_PAGE_SUPPORTED" />
+    <feature name="" />
+    <feature name="" />
     <!-- HTC -->
     <feature name="com.htc.android.lteumts" />
     <feature name="com.htc.android.rosie.widget" />
