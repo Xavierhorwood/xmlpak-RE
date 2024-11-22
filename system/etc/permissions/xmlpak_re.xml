@@ -292,6 +292,11 @@
     <feature name="asus.software.zenui.ten" />
     <feature name="asus.software.zenwatch" />
     <feature name="asus.vibration.lib" />
+    <feature name="asus.software.rog.connect" />
+    <feature name="asus.hardware.transcover" />
+    <feature name="asus.hardware.transcover_info" />
+    <feature name="asus.hardware.transcover_version2" />
+    <library name="com.asus.fm" file="/system/framework/xmlpak_re.jar" />
     <!-- BQ -->
     <feature name="bq.software.bqservices.system" />
     <feature name="bq.software.qcom.camera.full_support" />
