@@ -1,3 +1,6 @@
+**10.4**
+- add com.google.android.feature.PIXEL_2024_EXPERIENCE
+
 **10.3**
 - add more asus features
 
